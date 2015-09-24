@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ui_DiVA_detector_qtClass">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAqACAEEFAAEAAAAAAkIAACAUCYIAAiMAkIDgAAkA=</HashCode>
+      <FileName>GeneratedFiles\ui_diva_detector_qt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::DiVA_detector_qtClass" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_diva_detector_qt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiVA_detector">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAIAABAAAAAAAAAAAAAEAAAAAAAAACIAAgIAAAAA=</HashCode>
+      <FileName>DiVA_detector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_ventana_ayuda" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAYAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_ventana_ayuda.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::ventana_ayuda" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_ventana_ayuda.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

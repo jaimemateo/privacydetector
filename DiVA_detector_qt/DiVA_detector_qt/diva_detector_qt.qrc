@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="DiVA_detector_qt">
+    <file>Resources/Iconos/ayda.png</file>
+    <file>Resources/Iconos/cam.png</file>
+    <file>Resources/Iconos/engranaje.png</file>
+    <file>Resources/Iconos/Play.png</file>
+    <file>Resources/Iconos/stop.png</file>
+    <file>Resources/Logos/LogoOficial-EPS-200.png</file>
+    <file>Resources/Logos/HAVideo_logo.png</file>
+    <file>Resources/Logos/VPU_logo-200.png</file>
+    <file>Resources/Logos/logoUAM-200.PNG</file>
+    <file>Resources/Logos/MinecoLogo-200.png</file>
+    <file>Resources/Logos/VPU_logo-200.png</file>
+  </qresource>
+</RCC>

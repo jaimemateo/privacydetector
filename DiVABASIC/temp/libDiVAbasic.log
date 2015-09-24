@@ -1,0 +1,17 @@
+﻿Build started 14/03/2014 12:54:48.
+     1>Project "C:\u\csb\csb\DiVABASIC\PROJECTS\libDiVAbasic\libDiVAbasic.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\../../temp\libDiVAbasic.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         libDiVAbasic.vcxproj -> C:\u\csb\csb\DiVABASIC\PROJECTS\libDiVAbasic\.\../../bin\libDiVAbasic.lib
+       FinalizeBuildStatus:
+         Deleting file ".\../../temp\libDiVAbasic.unsuccessfulbuild".
+         Touching ".\../../temp\libDiVAbasic.lastbuildstate".
+     1>Done Building Project "C:\u\csb\csb\DiVABASIC\PROJECTS\libDiVAbasic\libDiVAbasic.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.45

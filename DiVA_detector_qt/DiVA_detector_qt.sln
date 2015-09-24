@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiVA_detector_qt", "DiVA_detector_qt\DiVA_detector_qt.vcxproj", "{6C944466-0E33-46E7-BEFE-616AEEF3675C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C944466-0E33-46E7-BEFE-616AEEF3675C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C944466-0E33-46E7-BEFE-616AEEF3675C}.Debug|Win32.Build.0 = Debug|Win32
+		{6C944466-0E33-46E7-BEFE-616AEEF3675C}.Release|Win32.ActiveCfg = Release|Win32
+		{6C944466-0E33-46E7-BEFE-616AEEF3675C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

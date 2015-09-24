@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libDiVAbasic", "libDiVAbasic\libDiVAbasic.vcxproj", "{3D69049E-1BF6-4C5A-9842-7CCD47E5EDFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testGTIFrameClient", "test\testGTIFrameClient.vcxproj", "{F392800F-CD03-491A-953C-FF2D221F29B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testGTIImageBuffer", "test\testGTIImageBuffer.vcxproj", "{10D6C47C-194D-44EE-9F3E-BB939C2ACA87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D69049E-1BF6-4C5A-9842-7CCD47E5EDFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D69049E-1BF6-4C5A-9842-7CCD47E5EDFE}.Debug|Win32.Build.0 = Debug|Win32
+		{3D69049E-1BF6-4C5A-9842-7CCD47E5EDFE}.Release|Win32.ActiveCfg = Release|Win32
+		{3D69049E-1BF6-4C5A-9842-7CCD47E5EDFE}.Release|Win32.Build.0 = Release|Win32
+		{F392800F-CD03-491A-953C-FF2D221F29B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F392800F-CD03-491A-953C-FF2D221F29B9}.Debug|Win32.Build.0 = Debug|Win32
+		{F392800F-CD03-491A-953C-FF2D221F29B9}.Release|Win32.ActiveCfg = Release|Win32
+		{F392800F-CD03-491A-953C-FF2D221F29B9}.Release|Win32.Build.0 = Release|Win32
+		{10D6C47C-194D-44EE-9F3E-BB939C2ACA87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10D6C47C-194D-44EE-9F3E-BB939C2ACA87}.Debug|Win32.Build.0 = Debug|Win32
+		{10D6C47C-194D-44EE-9F3E-BB939C2ACA87}.Release|Win32.ActiveCfg = Release|Win32
+		{10D6C47C-194D-44EE-9F3E-BB939C2ACA87}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

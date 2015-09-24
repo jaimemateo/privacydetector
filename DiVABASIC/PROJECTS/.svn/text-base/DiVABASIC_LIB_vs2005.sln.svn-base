@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libDiVAbasic", "libDiVAbasic\libDiVAbasic.vcproj", "{DB881E31-E362-4E47-A2D8-7887BB54DB95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB881E31-E362-4E47-A2D8-7887BB54DB95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB881E31-E362-4E47-A2D8-7887BB54DB95}.Debug|Win32.Build.0 = Debug|Win32
+		{DB881E31-E362-4E47-A2D8-7887BB54DB95}.Release|Win32.ActiveCfg = Release|Win32
+		{DB881E31-E362-4E47-A2D8-7887BB54DB95}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
